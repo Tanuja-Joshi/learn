@@ -1,0 +1,16 @@
+.traffic{
+    text-align: center;
+    top:20%;
+    justify-content: center;
+    background-color: black;
+    justify-content: center;
+    height: auto;
+    width:85px;
+    align-items: center;
+    border-radius: 3%;
+    left: 50%;
+    top:30%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+    
+}
